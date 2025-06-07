@@ -10,7 +10,7 @@ local gunConnection
 local gunTypes = {
     ["Revolver"] = true, ["Shotgun"] = true, ["Rifle"] = true, 
     ["Navy Revolver"] = true, ["Mauser C96"] = true, ["Bolt Action Rifle"] = true, 
-    ["Electrocutioner"] = true, ["Sawed-Off Shotgun"] = true, ["Crossbow"] = true
+    ["Electrocutioner"] = true, ["Sawed-Off Shotgun"] = true, ["Cross bow"] = true
 }
 
 local function collectGun(gun)
